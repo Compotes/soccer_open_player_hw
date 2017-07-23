@@ -1,0 +1,87 @@
+Partlist
+
+Exported from master.sch at 2/18/16 6:38 PM
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part          Value          Device         Package  Library       Sheet
+
+ANALOG1                      M07            07P      con-amp-quick 1
+ANALOG2                      M07            07P      con-amp-quick 1
+BATTERY                      M09            09P      con-amp-quick 1
+BATTERY_CHECK                M09            09P      con-amp-quick 1
+BAT_1                        3,81/1,4       3,81/1,4 wirepad       1
+BAT_2                        3,81/1,4       3,81/1,4 wirepad       1
+BLUETOOTH                    M05            05P      con-amp-quick 1
+C1            100K           C-EUC0603      C0603    rcl           1
+C2            100K           C-EUC0603      C0603    rcl           1
+C3            100K           C-EUC0603      C0603    rcl           1
+C4            100K           C-EUC0603      C0603    rcl           1
+C5            100K           C-EUC0603      C0603    rcl           1
+C6            100K           C-EUC0603      C0603    rcl           1
+C7            2M2            C-EUC0805      C0805    rcl           1
+C8            2M2            C-EUC0805      C0805    rcl           1
+C9            10u            C-EUC1206      C1206    rcl           1
+C10           100K           C-EUC0603      C0603    rcl           1
+C11           100K           C-EUC0603      C0603    rcl           1
+C12           100K           C-EUC0603      C0603    rcl           1
+C13           100K           C-EUC0603      C0603    rcl           1
+C14           100K           C-EUC0603      C0603    rcl           1
+COMPASS                      M05            05P      con-amp-quick 1
+D1                           DIODE-MINIMELF MINIMELF diode         1
+D2                           DIODE-MINIMELF MINIMELF diode         1
+DV1                          FE10-2         FE10-2   con-lsta      1
+DV2                          FE10-2         FE10-2   con-lsta      1
+DV3                          FE10-2         FE10-2   con-lsta      1
+DV4                          FE10-2         FE10-2   con-lsta      1
+DV5                          FE10-2         FE10-2   con-lsta      1
+DV6                          FE10-2         FE10-2   con-lsta      1
+GND_1                        3,81/1,4       3,81/1,4 wirepad       1
+GND_2                        3,81/1,4       3,81/1,4 wirepad       1
+GND_3                        3,81/1,4       3,81/1,4 wirepad       1
+I2C3                         M04            04P      con-amp-quick 1
+IC1           STM32F205VCT6  STM32F205VCT6  TQFP100  stm32f205     1
+KEY                          3,81/1,4       3,81/1,4 wirepad       1
+KICKER                       M05            05P      con-amp-quick 1
+LED0                         LED_E          LED_1206 eagle-ltspice 1
+LED1                         LED_E          LED_1206 eagle-ltspice 1
+LED2                         LED_E          LED_1206 eagle-ltspice 1
+LED3                         LED_E          LED_1206 eagle-ltspice 1
+LINE_SENSORS                 M05            05P      con-amp-quick 1
+MOTOR1                       M06            06P      con-amp-quick 1
+MOTOR2                       M06            06P      con-amp-quick 1
+MOTOR3                       M06            06P      con-amp-quick 1
+MOTOR4                       M06            06P      con-amp-quick 1
+MOTOR5                       M06            06P      con-amp-quick 1
+MOTOR6                       M06            06P      con-amp-quick 1
+PIXY                         MA03-2         MA03-2   con-lstb      1
+PROGRAMMER                   MA04-1         MA04-1   con-lstb      1
+PWM1                         M06            06P      con-amp-quick 1
+PWM2                         M06            06P      con-amp-quick 1
+PWR                          M02            02P      con-amp-quick 1
+QUARTER_BOARD                M05            05P      con-amp-quick 1
+R1                           R-EU_R0603     R0603    rcl           1
+R2                           R-EU_R1206     R1206    rcl           1
+R3                           R-EU_R0603     R0603    rcl           1
+R4                           R-EU_R0603     R0603    rcl           1
+R5                           R-EU_R0603     R0603    rcl           1
+R6                           R-EU_R0603     R0603    rcl           1
+R7                           R-EU_R0603     R0603    rcl           1
+R8                           R-EU_R0603     R0603    rcl           1
+R9                           R-EU_R0603     R0603    rcl           1
+R10                          R-EU_R0603     R0603    rcl           1
+R11                          R-EU_R1206     R1206    rcl           1
+SJ1                          SJ             SJ       jumper        1
+SPI1                         M06            06P      con-amp-quick 1
+SPI3                         M06            06P      con-amp-quick 1
+U$1           LF33C          LF33C          LF33C    regulator     1
+U$2           BUTTON         BUTTON         BUTTON   button        1
+U$3           BUTTON         BUTTON         BUTTON   button        1
+U$4           BUTTON         BUTTON         BUTTON   button        1
+U$5           BUTTON         BUTTON         BUTTON   button        1
+U$6           BUTTON         BUTTON         BUTTON   button        1
+U$7           BUTTON         BUTTON         BUTTON   button        1
+USART                        M02            02P      con-amp-quick 1
+USD_CARD                     FE05-2         FE05-2   con-lsta      1
